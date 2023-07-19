@@ -1,0 +1,26 @@
+a {
+  text-decoration: unset;
+}
+
+input {
+  border: unset;
+  outline: unset;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #CCC;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #999;
+  border-radius: 10px;
+}
+
+.fs-14 {
+  font-size: 14px;
+}

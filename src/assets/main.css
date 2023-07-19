@@ -1,0 +1,9 @@
+/* start section todo*/
+.todo-list {
+  height: 100vh;
+  background-image: linear-gradient( to bottom ,#0A4FAD, #1678DC);
+  overflow-x: auto ;
+  padding: 10px 5px;
+}
+
+/* end section todo*/
